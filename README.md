@@ -16,7 +16,7 @@ This lab focuses on implementing various recursive algorithms in Java. Recursion
 
 ### Project Setup
 
-1. Open the `Lab10.java.`java file in your IDE
+1. Open the `Lab10.java`java file in your IDE
 2. Locate the TODO comments in the code that mark the sections you need to implement
 3. Complete each of the required methods as per the specifications
 4. Do not modify the existing code structure or change method signatures
